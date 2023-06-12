@@ -8,3 +8,8 @@
 	url = https://github.com/cran/hemispheR
 	shallow = true
 	registered = true
+[submodule "LAD"]
+	path = LAD
+	url = https://github.com/cran/LAD
+	shallow = true
+	registered = true
