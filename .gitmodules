@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "hemispheR"]
-	path = hemispheR
-	url = https://github.com/cran/hemispheR
 [submodule "LAD"]
 	path = LAD
 	url = https://github.com/cran/LAD
+[submodule "hemispheR"]
+	path = hemispheR
+	url = https://github.com/cran/hemispheR
