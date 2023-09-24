@@ -5,6 +5,9 @@
 [submodule "LAD"]
 	path = LAD
 	url = https://github.com/cran/LAD
+[submodule "LAIr"]
+	path = LAIr
+	url = https://github.com/cran/LAIr
 [submodule "hemispheR"]
 	path = hemispheR
 	url = https://github.com/cran/hemispheR
