@@ -8,6 +8,9 @@
 [submodule "LAIr"]
 	path = LAIr
 	url = https://github.com/cran/LAIr
+[submodule "coveR2"]
+	path = coveR2
+	url = https://github.com/cran/coveR2
 [submodule "hemispheR"]
 	path = hemispheR
 	url = https://github.com/cran/hemispheR
